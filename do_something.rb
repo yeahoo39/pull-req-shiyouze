@@ -1,13 +1,10 @@
 # do something
 #
 #
-#
 # do something
 #
 #
-#
 # do something
-#
 #
 # yeah !
 #
@@ -16,7 +13,6 @@
 #
 #
 # cool !
-#
 #
 #
 # awesome !
